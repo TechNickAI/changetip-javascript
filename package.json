@@ -1,0 +1,41 @@
+{
+    "name": "changetip",
+    "description": "ChangeTip helper library",
+    "version": "0.1.0",
+    "keywords": [
+        "changetip",
+        "bitcoin",
+        "bitcoin tipping",
+        "micropayments"
+    ],
+    "author": { "name" : "Nick Sullivan" },
+    "maintainers": [
+        {
+            "name": "Nick Sullivan",
+            "web": "https://api.changetip.com"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Nick Sullivan",
+            "web": "https://api.changetip.com"
+        }
+    ],
+    "bugs": "https://github.com/changecoin/changetip-javascript/issues",
+    "licenses": [
+        {
+            "type": "BSD",
+            "url": "https://github.com/changecoin/changetip-javascript/blob/master/LICENSE"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "git",
+            "url": "git://github.com/changecion/changetip-javascript.git"
+        }
+    ],
+    "dependencies": {},
+    "devDependencies": {
+    },
+    "homepage": "https://www.changetip.com"
+}
